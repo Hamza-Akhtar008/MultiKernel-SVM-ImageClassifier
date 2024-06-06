@@ -4,7 +4,7 @@ This project implements an image classification system using Support Vector Mach
 
 ## Project Structure
 
-- `images/`: Directory containing images used in the project.
+- `dataset/`: Directory containing images used in the project.
 - `README.md`: Project documentation.
 - `requirements.txt`: List of dependencies.
 - `Result` : It Contain Results of the model
