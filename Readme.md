@@ -38,14 +38,14 @@ This project implements an image classification system using Support Vector Mach
 ### Performance
 
 #### Linear Kernel
-![Performance Linear Kernel](Performance_Linear_Kernel.jpg)
+![Performance Linear Kernel](Results/Performance_Linear_Kernel.jpg)
 
 #### Poly Kernel
 
-![Performance Poly Kernel](Performance_Poly_Kernel.jpg)
+![Performance Poly Kernel](Results/Performance_Poly_Kernel.jpg)
 
 #### RBF Kernel
-![Performance RBF Kernel](Performance_RBF_Kernel.jpg)
+![Performance RBF Kernel](Results/Performance_RBF_Kernel.jpg)
 
 
 
